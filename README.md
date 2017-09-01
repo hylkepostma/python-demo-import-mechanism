@@ -2,11 +2,13 @@
 
 Example package demonstrating the Python import mechanism.
 
+
+
 [TOC]
 
 ## Getting started
 
-`git clone `
+`git clone git@github.com:hylkepostma/python-demo-import-mechanism.git`
 
 
 
@@ -130,10 +132,9 @@ Note: now you can also install the package from a distribution using `pip`. For 
 At the risk of stating the obvious, some explanation of common used Python terminology.
 
 - A Python module is simply a Python source file (.py), which can expose classes, functions and global variables.
-
 - A Python package is simply a directory of Python module(s). A file called `__init__.py` tells Python to treat the directory as a package.
 
-  ​
+
 
 
 
